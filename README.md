@@ -1,2 +1,2 @@
-# Gym-master
+# Gym
 Type trabalho
